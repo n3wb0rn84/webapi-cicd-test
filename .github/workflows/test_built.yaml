@@ -6,17 +6,15 @@ jobs:
   demo:
     runs-on: ubuntu-latest
     steps:
-      - name: Hello
-        run: echo "success"
 
       - name: Clone projet dans le runner
         uses: actions/checkout@v6
 
-      
       - name: Setup et build dotnet
         uses: actions/setup-dotnet@v5
         with:
           dotnet-version: '10.0.x'
+      - name: Build dotnet app
         run: dotnet build webapi-cicd
 
       - name: Test de l'addition
@@ -35,3 +33,6 @@ jobs:
           password: ${{ secrets.SMTP_PASSWORD }}
           subject: "👿👿👿 You loose !! Hahahahaha 👿👿👿"
           html_body: "<h1>Et merde! Ca a foiré !</h1>"
+      
+      - name: Hello
+        run: echo "success"
