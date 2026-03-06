@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="webapi-cicd.Test/webapi-cicd.Test.csproj" />
+  <Project Path="webapi-cicd/webapi-cicd.csproj" />
+</Solution>

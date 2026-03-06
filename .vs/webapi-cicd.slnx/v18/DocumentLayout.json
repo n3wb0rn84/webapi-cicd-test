@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev2026\\webapi pour cicd\\webapi-cicd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A553BE1-C235-484F-8275-0144B87031B2}|webapi-cicd.Test\\webapi-cicd.Test.csproj|c:\\dev2026\\webapi pour cicd\\webapi-cicd\\webapi-cicd.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A553BE1-C235-484F-8275-0144B87031B2}|webapi-cicd.Test\\webapi-cicd.Test.csproj|solutionrelative:webapi-cicd.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08A9BAF-010F-476F-AFB9-7E46BAC82E8A}|webapi-cicd\\webapi-cicd.csproj|c:\\dev2026\\webapi pour cicd\\webapi-cicd\\webapi-cicd\\services\\additionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08A9BAF-010F-476F-AFB9-7E46BAC82E8A}|webapi-cicd\\webapi-cicd.csproj|solutionrelative:webapi-cicd\\services\\additionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08A9BAF-010F-476F-AFB9-7E46BAC82E8A}|webapi-cicd\\webapi-cicd.csproj|c:\\dev2026\\webapi pour cicd\\webapi-cicd\\webapi-cicd\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08A9BAF-010F-476F-AFB9-7E46BAC82E8A}|webapi-cicd\\webapi-cicd.csproj|solutionrelative:webapi-cicd\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Dev2026\\webapi pour cicd\\webapi-cicd\\webapi-cicd.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "webapi-cicd.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Dev2026\\webapi pour cicd\\webapi-cicd\\webapi-cicd.Test\\UnitTest1.cs",
+              "RelativeToolTip": "webapi-cicd.Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T12:43:00.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdditionService.cs",
+              "DocumentMoniker": "C:\\Dev2026\\webapi pour cicd\\webapi-cicd\\webapi-cicd\\Services\\AdditionService.cs",
+              "RelativeDocumentMoniker": "webapi-cicd\\Services\\AdditionService.cs",
+              "ToolTip": "C:\\Dev2026\\webapi pour cicd\\webapi-cicd\\webapi-cicd\\Services\\AdditionService.cs",
+              "RelativeToolTip": "webapi-cicd\\Services\\AdditionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T12:35:38.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Dev2026\\webapi pour cicd\\webapi-cicd\\webapi-cicd\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "webapi-cicd\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Dev2026\\webapi pour cicd\\webapi-cicd\\webapi-cicd\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "webapi-cicd\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T12:32:25.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

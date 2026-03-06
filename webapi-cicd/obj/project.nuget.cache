@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qshDw4OjlW8=",
+  "success": true,
+  "projectFilePath": "C:\\Dev2026\\webapi pour cicd\\webapi-cicd\\webapi-cicd\\webapi-cicd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stgadmin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\stgadmin\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
