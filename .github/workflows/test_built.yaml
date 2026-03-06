@@ -18,7 +18,7 @@ jobs:
         run: dotnet build webapi-cicd
 
       - name: Test de l'addition
-        run: dotnet test webapi-cicd
+        run: dotnet test webapi-cicd.Test
       
       - name: Mailage en cas de foirage du test
         if: failure()
