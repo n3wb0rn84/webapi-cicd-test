@@ -1,4 +1,4 @@
-name: Workflow de l'exo
+name: Workflow de exo
 
 on: [workflow_dispatch]
 
