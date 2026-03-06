@@ -1,0 +1,37 @@
+name: Workflow de l'exo
+
+on: [workflow_dispatch]
+
+jobs:
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hello
+        runs: echo "success"
+
+      - name: Clone projet dans le runner
+        uses: actions/checkout@v6
+
+      
+      - name: Setup et build dotnet
+        uses: actions/setup-dotnet@v5
+        with:
+          dotnet-version: '10.0.x'
+        run: dotnet build webapi-cicd
+
+      - name: Test de l'addition
+        run: dotnet test webapi-cicd
+      
+      - name: Mailage en cas de foirage du test
+        if: failure()
+        uses: JaSiLez/smtp-notifier@main
+        with:
+          server_address: ${{ vars.SMTP_SERVER }}
+          server_port: ${{ vars.SMTP_PORT }}
+          secure: true
+          from: ${{ secrets.FROM_EMAIL }}
+          to: digitalcity@yopmail.com
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: "👿👿👿 You loose !! Hahahahaha 👿👿👿"
+          html_body: "<h1>Et merde! Ca a foiré !</h1>"
