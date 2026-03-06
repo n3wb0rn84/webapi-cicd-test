@@ -32,3 +32,4 @@ C:\Dev2026\webapi pour cicd\webapi-cicd\webapi-cicd\obj\Debug\net10.0\refint\web
 C:\Dev2026\webapi pour cicd\webapi-cicd\webapi-cicd\obj\Debug\net10.0\webapi-cicd.pdb
 C:\Dev2026\webapi pour cicd\webapi-cicd\webapi-cicd\obj\Debug\net10.0\webapi-cicd.genruntimeconfig.cache
 C:\Dev2026\webapi pour cicd\webapi-cicd\webapi-cicd\obj\Debug\net10.0\ref\webapi-cicd.dll
+C:\Dev2026\webapi pour cicd\webapi-cicd\webapi-cicd\obj\Debug\net10.0\webapi-cicd.sourcelink.json

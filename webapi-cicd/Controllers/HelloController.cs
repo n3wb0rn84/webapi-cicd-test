@@ -5,9 +5,9 @@ namespace webapi_cicd.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ValuesController : ControllerBase
+    public class HelloController : ControllerBase
     {
-        [HttpGet("{Hello}")]
+        [HttpGet]
         public IActionResult sayHello()
         {
             return Ok("Bonjour 42");

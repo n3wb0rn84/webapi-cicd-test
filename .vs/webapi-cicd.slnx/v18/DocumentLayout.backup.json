@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Dev2026\\webapi pour cicd\\webapi-cicd\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{789D3C39-047A-7454-7499-F0C93D00C812}|webapi-cicd\\webapi-cicd.csproj|c:\\dev2026\\webapi pour cicd\\webapi-cicd\\webapi-cicd\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789D3C39-047A-7454-7499-F0C93D00C812}|webapi-cicd\\webapi-cicd.csproj|solutionrelative:webapi-cicd\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4500DB89-446D-3D98-BE31-6C7F90ED2066}|webapi-cicd.Test\\webapi-cicd.Test.csproj|c:\\dev2026\\webapi pour cicd\\webapi-cicd\\webapi-cicd.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4500DB89-446D-3D98-BE31-6C7F90ED2066}|webapi-cicd.Test\\webapi-cicd.Test.csproj|solutionrelative:webapi-cicd.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{789D3C39-047A-7454-7499-F0C93D00C812}|webapi-cicd\\webapi-cicd.csproj|c:\\dev2026\\webapi pour cicd\\webapi-cicd\\webapi-cicd\\services\\additionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{789D3C39-047A-7454-7499-F0C93D00C812}|webapi-cicd\\webapi-cicd.csproj|solutionrelative:webapi-cicd\\services\\additionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{789D3C39-047A-7454-7499-F0C93D00C812}|webapi-cicd\\webapi-cicd.csproj|c:\\dev2026\\webapi pour cicd\\webapi-cicd\\webapi-cicd\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{789D3C39-047A-7454-7499-F0C93D00C812}|webapi-cicd\\webapi-cicd.csproj|solutionrelative:webapi-cicd\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Dev2026\\webapi pour cicd\\webapi-cicd\\webapi-cicd.Test\\UnitTest1.cs",
               "RelativeDocumentMoniker": "webapi-cicd.Test\\UnitTest1.cs",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AdditionService.cs",
               "DocumentMoniker": "C:\\Dev2026\\webapi pour cicd\\webapi-cicd\\webapi-cicd\\Services\\AdditionService.cs",
               "RelativeDocumentMoniker": "webapi-cicd\\Services\\AdditionService.cs",
@@ -59,15 +59,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ValuesController.cs",
-              "DocumentMoniker": "C:\\Dev2026\\webapi pour cicd\\webapi-cicd\\webapi-cicd\\Controllers\\ValuesController.cs",
-              "RelativeDocumentMoniker": "webapi-cicd\\Controllers\\ValuesController.cs",
-              "ToolTip": "C:\\Dev2026\\webapi pour cicd\\webapi-cicd\\webapi-cicd\\Controllers\\ValuesController.cs",
-              "RelativeToolTip": "webapi-cicd\\Controllers\\ValuesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "C:\\Dev2026\\webapi pour cicd\\webapi-cicd\\webapi-cicd\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "webapi-cicd\\Controllers\\HelloController.cs",
+              "ToolTip": "C:\\Dev2026\\webapi pour cicd\\webapi-cicd\\webapi-cicd\\Controllers\\HelloController.cs",
+              "RelativeToolTip": "webapi-cicd\\Controllers\\HelloController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T12:32:25.908Z"
+              "WhenOpened": "2026-03-06T12:32:25.908Z",
+              "EditorCaption": ""
             }
           ]
         }
