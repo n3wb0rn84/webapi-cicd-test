@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("webapi-cicd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63dfb18080b4236c7fc0937e0baad30aff2754d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("webapi-cicd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("webapi-cicd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
