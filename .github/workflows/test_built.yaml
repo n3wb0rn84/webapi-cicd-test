@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Hello
-        runs: echo "success"
+        run: echo "success"
 
       - name: Clone projet dans le runner
         uses: actions/checkout@v6
